@@ -20,4 +20,6 @@
 
 Se hablará sobre el mundo del desarrollo de videojuegos, las diferentes aplicaciones, areas del conocimiento involucradas y herramientas de software libre utilizadas durante el desarrollo.
 
+[Repositorio](https://github.com/Cristhian47/SkullDungeon)
+
 Por [@Cristian Grajales](https://github.com/Cristhian47) | [Cristian Grajales](https://www.linkedin.com/in/cristhian-andres-grajales-perez-5b5426229/)
